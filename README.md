@@ -76,7 +76,7 @@ To install the hardware mod, you need:
 
   &nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/sm_black_top.png" height="150">
 
-  - [Tim Schuerewegen / hundshamer Zelda v2 Gerber file](https://github.com/sylverb/game-and-watch-retro-go-sd/raw/refs/heads/main/assets/GnW_SD_v2.zip) (recommended for Zelda install)<br/><br/>
+  - [Tim Schuerewegen / hundshamer Zelda v2 Gerber file](https://github.com/sylverb/game-and-watch-retro-go-sd/raw/refs/heads/main/assets/GnW_SD_v2.zip) (recommended for Zelda install)<br/>
 
   &nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/MicroSD_Mario.png" height="200">
   <img src="assets/MicroSD_Zelda.png" height="200">
