@@ -74,11 +74,11 @@ To install the hardware mod, you need:
 
 - SD Card flex PCB adapter: 
 
-  <img src="assets/sm_black_top.png" height="150">
+  <img src="assets/sm_black_top.png" height="150" style="margin-left: 20px;">
 
-  - [Tim Schuerewegen / hundshamer Zelda v2 Gerber file](https://github.com/sylverb/game-and-watch-retro-go-sd/raw/refs/heads/main/assets/GnW_SD_v2.zip) (recommended for Zelda install)
+  - [Tim Schuerewegen / hundshamer Zelda v2 Gerber file](https://github.com/sylverb/game-and-watch-retro-go-sd/raw/refs/heads/main/assets/GnW_SD_v2.zip) (recommended for Zelda install)<br/><br/>
 
-  <img src="assets/MicroSD_Mario.png" height="200">
+  <img src="assets/MicroSD_Mario.png" height="200" style="margin-left: 20px;">
   <img src="assets/MicroSD_Zelda.png" height="200">
   
   - [PrimoAngelo Mario Gerber file](https://github.com/sylverb/game-and-watch-retro-go-sd/raw/refs/heads/main/assets/MicroSD_Mario_Final.zip) (recommended for Mario install)
